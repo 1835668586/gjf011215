@@ -1,2 +1,2 @@
-# gjf011215
+# README
 Pure JS implements the Notebook function
